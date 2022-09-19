@@ -1,5 +1,4 @@
 // Product actions here
-import React from "react";
 import axios from "axios";
 import {
     GET_PRODUCTS_LOADING,

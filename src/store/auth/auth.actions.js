@@ -1,5 +1,4 @@
 // Auth Actions here
-import React from "react";
 import axios from "axios";
 import {
   AUTH_SIGN_IN_LOADING,

@@ -4,7 +4,6 @@ import {
   AUTH_SIGN_IN_ERROR,
   AUTH_SIGN_OUT,
 } from "./auth.types";
-import React from "react";
 
 const token = localStorage.getItem("token");
 

@@ -3,7 +3,6 @@ import {
   GET_PRODUCTS_SUCCESS,
   GET_PRODUCTS_ERROR,
 } from "./product.types";
-import React from "react";
 
 // Note: Do not update/change the initial state
 const productInitalState = {
